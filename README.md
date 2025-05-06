@@ -2,7 +2,7 @@
 
 <div align="center">
     <h1>Skills</h1>
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,nextjs,tailwind,python,github" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=js,react,mongodb,html,css,nextjs,tailwind,python,github" alt="Skills" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 <div align="center">
     <h1>Learning</h1>
-    <img src="https://skillicons.dev/icons?i=react" alt="Learning" />
+    <img src="https://skillicons.dev/icons?i=cpp,nodejs" alt="Learning" />
 </div>
 
 <div align="center">
