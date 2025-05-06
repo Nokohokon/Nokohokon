@@ -21,7 +21,10 @@
         <img src="https://lanyard-profile-readme.vercel.app/api/1240285268456767543" alt="Discord Presence" title="Discord Presence">
     </a>
 </div>
-![Konja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nokohokon&show_icons=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nokohokon&show_icons=true" alt="Konja's GitHub stats" />
+</p>
 
 <div align="center">
     <h1>📈 WakaTime Stats</h1>
