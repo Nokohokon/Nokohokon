@@ -25,7 +25,7 @@
 <div align="center">
     <h1>GitHub Stats</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nokohokon&show_icons=true&theme=dark" alt="Konja's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nokohokon&show_icons=true&theme=synthwave" alt="Konja's GitHub stats" />
 </p>
 </div>
 
