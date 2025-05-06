@@ -31,7 +31,10 @@
 
 <div align="center">
     <h1>📈 WakaTime Stats</h1>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018ca84c-6a22-46e3-b34a-aa12e72027cd/c569f9ec-7f31-40f3-ad30-c0dc9fb72ade.png" /></a>
 </div>
+
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
