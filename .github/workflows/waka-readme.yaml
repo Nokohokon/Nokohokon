@@ -1,0 +1,38 @@
+name: 📊 WakaTime Stats Updater
+
+on:
+  workflow_dispatch: # Manuell auslösbar
+  schedule:
+    - cron: "0 6 * * *" # Läuft täglich um 6 Uhr morgens UTC
+
+jobs:
+  update-readme:
+    name: 🚀 Update WakaTime Stats in README
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🏗️ Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 📈 Update WakaTime Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ░▒▓█
+          CODE_LANG: js
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 7
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML
+          COMMIT_MESSAGE: "🔄 Update WakaTime stats in README"
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+          COMMITTER_NAME: "WakaTime Bot"
+          COMMITTER_EMAIL: "waka-bot@example.com"
+          AUTHOR_NAME: "Konja"
+          AUTHOR_EMAIL: "your@email.com"
