@@ -22,9 +22,12 @@
     </a>
 </div>
 
+<div align="center">
+    <h1>GitHub Stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nokohokon&show_icons=true" alt="Konja's GitHub stats" />
 </p>
+</div>
 
 <div align="center">
     <h1>📈 WakaTime Stats</h1>
