@@ -37,4 +37,14 @@
 
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 25 December 2023 - To: 07 May 2025
+
+Total Time: 31 mins
+
+TypeScript   31 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.43 %
+JavaScript   0 secs          -------------------------   00.06 %
+```
+
 <!--END_SECTION:waka-->
