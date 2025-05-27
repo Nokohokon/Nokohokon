@@ -38,16 +38,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 December 2023 - To: 24 May 2025
+From: 25 December 2023 - To: 25 May 2025
 
-Total Time: 1 hr 48 mins
+Total Time: 4 hrs 25 mins
 
-TypeScript   1 hr 27 mins    >>>>>>>>>>>>>>>>>>>>-----   80.03 %
-Git Config   7 mins          >>-----------------------   06.55 %
-JavaScript   6 mins          >------------------------   05.61 %
-CSS          6 mins          >------------------------   05.52 %
-Python       2 mins          -------------------------   01.87 %
-Other        0 secs          -------------------------   00.19 %
+TypeScript   3 hrs 16 mins   >>>>>>>>>>>>>>>>>>>------   74.09 %
+JavaScript   31 mins         >>>----------------------   12.02 %
+CSS          27 mins         >>>----------------------   10.27 %
+Git Config   7 mins          >------------------------   02.68 %
+Python       2 mins          -------------------------   00.77 %
+Other        0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
