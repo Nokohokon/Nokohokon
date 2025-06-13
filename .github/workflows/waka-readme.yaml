@@ -1,12 +1,10 @@
 name: Waka Readme
-
 on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
-
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -23,7 +21,7 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
-          CODE_LANG: rust # optional
+          CODE_LANG: text # geändert von rust zu text
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
@@ -31,12 +29,24 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
+          ### Neue Parameter für erweiterte Stats
+          SHOW_COMMIT: true # zeigt commit stats (Morning/Daytime/Evening/Night)
+          SHOW_DAYS_OF_WEEK: true # zeigt produktivste Wochentage
+          SHOW_LANGUAGE: true # zeigt Programmiersprachen der aktuellen Woche
+          SHOW_OS: false # optional: Betriebssystem stats
+          SHOW_PROJECTS: false # optional: Projekt stats
+          SHOW_TIMEZONE: true # zeigt Zeitzone
+          SHOW_EDITORS: false # optional: Editor stats
+          SHOW_LANGUAGE_PER_REPO: true # zeigt "I Mostly Code in" section
+          SHOW_LOC_CHART: false # optional: Lines of Code chart
+          SHOW_PROFILE_VIEWS: false # optional: Profile views
+          SHOW_SHORT_INFO: false # optional: kurze Info
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: YOUR_NAME # optional
-          AUTHOR_EMAIL: YOUR@EMAIL.com # optional
+          AUTHOR_NAME: Konja Rehm # optional
+          AUTHOR_EMAIL: private@konja-rehm.de # optional
           # you can populate email-id with secrets instead
