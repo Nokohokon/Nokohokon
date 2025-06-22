@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 December 2023 - To: 19 June 2025
+From: 25 December 2023 - To: 20 June 2025
 
-Total Time: 94 hrs 25 mins
+Total Time: 94 hrs 30 mins
 
-TypeScript   83 hrs 44 mins  >>>>>>>>>>>>>>>>>>>>>----   85.51 %
+TypeScript   83 hrs 50 mins  >>>>>>>>>>>>>>>>>>>>>----   85.52 %
 Other        3 hrs 30 mins   >------------------------   03.58 %
 ```
 
