@@ -7,7 +7,7 @@
 
 <div align="center">
     <h1>Apps I use</h1>
-    <img src="https://skillicons.dev/icons?i=discord,github,vscode,powershell,docker,postman,vercel,pycharm,termius" alt="Apps I use" />
+    <img src="https://skillicons.dev/icons?i=discord,github,vscode,powershell,docker,postman,vercel,pycharm,figma,obsidian" alt="Apps I use" />
 </div>
 
 <div align="center">
