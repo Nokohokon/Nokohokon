@@ -22,7 +22,7 @@ jobs:
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
           CODE_LANG: text # geändert von rust zu text
-          TIME_RANGE: last_year # optional
+          TIME_RANGE: last_30_days # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
