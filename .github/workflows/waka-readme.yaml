@@ -34,7 +34,7 @@ jobs:
           SHOW_DAYS_OF_WEEK: true # zeigt produktivste Wochentage
           SHOW_LANGUAGE: true # zeigt Programmiersprachen der aktuellen Woche
           SHOW_OS: false # optional: Betriebssystem stats
-          SHOW_PROJECTS: false # optional: Projekt stats
+          SHOW_PROJECTS: true # optional: Projekt stats
           SHOW_TIMEZONE: true # zeigt Zeitzone
           SHOW_EDITORS: false # optional: Editor stats
           SHOW_LANGUAGE_PER_REPO: true # zeigt "I Mostly Code in" section
