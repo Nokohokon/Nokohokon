@@ -22,15 +22,7 @@
     </a>
 </div>
 
-<div align="center">
-    <h1>GitHub Stats</h1>
-<p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Nokohokon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nokohokon&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokohokon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</p>
-</div>
 
 <div align="center">
     <h1>📈 WakaTime Stats</h1>
